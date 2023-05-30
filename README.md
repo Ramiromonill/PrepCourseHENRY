@@ -1,2 +1,1 @@
-# PrepCourseHENRY
-Repositorio de prueba del modulo n2.
+Este proyecto es una prueba para clonar el repostiroio.
